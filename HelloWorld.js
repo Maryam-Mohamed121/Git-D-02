@@ -3,7 +3,9 @@ class HelloWorld {
     this.message = "Hello World";
   }
 
-  getMessage() {
+  printHelloWorld() {
     return this.message;
   }
 }
+const helloWorld = new HelloWorld();
+console.log(helloWorld.printHelloWorld());
