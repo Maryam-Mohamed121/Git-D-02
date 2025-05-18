@@ -3,7 +3,9 @@ class HelloITI {
     this.message = "Hello ITI";
   }
 
-  getMessage() {
+  printHelloITI() {
     return this.message;
   }
 }
+const helloITI = new HelloITI();
+console.log(helloITI.printHelloITI());
