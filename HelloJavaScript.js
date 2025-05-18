@@ -7,5 +7,6 @@ class HelloJavaScript {
     return this.message;
   }
 }
+//this is a comment
 const helloJavaScript = new HelloJavaScript();
 console.log(helloJavaScript.printHelloJavaScript());
