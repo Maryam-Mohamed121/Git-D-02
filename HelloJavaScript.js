@@ -1,11 +1,11 @@
-class HelloWorld {
+class HelloJavaScript {
   constructor() {
-    this.message = "Hello World";
+    this.message = "Hello JavaScript";
   }
 
-  printHelloWorld() {
+  printHelloJavaScript() {
     return this.message;
   }
 }
-const helloWorld = new HelloWorld();
-console.log(helloWorld.printHelloWorld());
+const helloJavaScript = new HelloJavaScript();
+console.log(helloJavaScript.printHelloJavaScript());
