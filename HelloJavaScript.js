@@ -10,3 +10,4 @@ class HelloJavaScript {
 //this is a comment
 const helloJavaScript = new HelloJavaScript();
 console.log(helloJavaScript.printHelloJavaScript());
+// this is onther comment
