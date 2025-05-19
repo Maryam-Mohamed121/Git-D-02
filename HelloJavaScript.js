@@ -11,3 +11,4 @@ class HelloJavaScript {
 const helloJavaScript = new HelloJavaScript();
 console.log(helloJavaScript.printHelloJavaScript());
 // this is onther comment
+console.log("Hello There!");
